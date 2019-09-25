@@ -1,0 +1,12 @@
+[{"roomID":"1","roomname":"Kellie","roomtype":"S","beds":"5"},
+{"roomID":"2","roomname":"Herman","roomtype":"D","beds":"5"},
+{"roomID":"5","roomname":"Sonya","roomtype":"S","beds":"5"},
+{"roomID":"6","roomname":"Miranda","roomtype":"S","beds":"4"},
+{"roomID":"7","roomname":"Helen","roomtype":"S","beds":"2"},
+{"roomID":"8","roomname":"Octavia","roomtype":"D","beds":"3"},
+{"roomID":"9","roomname":"Gretchen","roomtype":"D","beds":"3"},
+{"roomID":"10","roomname":"Bernard","roomtype":"S","beds":"5"},
+{"roomID":"11","roomname":"Dacey","roomtype":"D","beds":"2"},
+{"roomID":"12","roomname":"Preston","roomtype":"D","beds":"2"},
+{"roomID":"13","roomname":"Dane","roomtype":"S","beds":"4"},
+{"roomID":"14","roomname":"Cole","roomtype":"S","beds":"1"}]

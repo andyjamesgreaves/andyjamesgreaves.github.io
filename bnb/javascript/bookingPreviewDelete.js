@@ -1,0 +1,7 @@
+function bookingPreviewDelete() {
+
+}
+
+function resetForm(){
+
+}
